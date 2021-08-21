@@ -5,6 +5,7 @@ The Coleman-Liau index of a text is designed to output what (U.S.) grade level i
 index = 0.0588 * L - 0.296 * S - 15.8.
 
 Test Cases:
+
 One fish. Two fish. Red fish. Blue fish. (Before Grade 1)
 
 Would you like them here or there? I would not like them here or there. I would not like them anywhere. (Grade 2)
